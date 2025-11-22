@@ -128,7 +128,7 @@ global.save = {}
 
 party_init()
 global.party_names = [   // <-- if you wish to change the default team members, change them here
-    "kris", "susie", "ralsei"
+    "felix", "sirra"
 ]
 party_apply_equipment()
 

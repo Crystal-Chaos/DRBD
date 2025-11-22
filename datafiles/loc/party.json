@@ -82,5 +82,29 @@
     "party_noelle_action_letter": {
         "en": "N",
         "ja": "Ｎ"
+    },
+    "party_felix_name": {
+        "en": "Felix",
+        "ja": ""
+    },
+    "party_felix_desc": {
+        "en": "Archer\nGood eyesight and\nswift reactions.",
+        "ja": ""
+    },
+    "party_felix_action_letter": {
+        "en": "K",
+        "ja": ""
+    },
+    "party_sirra_name": {
+        "en": "Sirra",
+        "ja": ""
+    },
+    "party_sirra_desc": {
+        "en": "Trickster\nMischievous, Has an\ninterest for magic.",
+        "ja": ""
+    },
+    "party_sirra_action_letter": {
+        "en": "S",
+        "ja": ""
     }
 }
