@@ -23,7 +23,7 @@
   ],
   "name":"spr_ui_felix_icon_hurt",
   "nineSlice":null,
-  "origin":0,
+  "origin":9,
   "parent":{
     "name":"felix",
     "path":"folders/@Engine/sprites/actors/felix.yy",
@@ -78,7 +78,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":0,
-    "yorigin":0,
+    "yorigin":4,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

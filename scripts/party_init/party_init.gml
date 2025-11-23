@@ -510,10 +510,10 @@ function party_m_sirra() : party_m() constructor {
 	
 	battle_sprites = { // [sprite, whether stop at the end (or change to what sprite), (image speed)]
 		act: [spr_bralsei_act, true],
-		actready: spr_bralsei_actready,
-		actend: [spr_bralsei_actend, "idle", 1],
-		attack: [spr_bralsei_attack, true],
-		attackready: spr_bralsei_attackready,
+		actready: spr_bsirra_actready,
+		actend: [spr_bsirra_actend, "idle", 1],
+		attack: [spr_bsirra_attack, true],
+		attackready: spr_bsirra_attackready,
 		defeat: spr_bsirra_defeat,
 		defend: [spr_bsirra_defend, true],
 		hurt: spr_bsirra_hurt,
