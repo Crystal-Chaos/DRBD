@@ -10,7 +10,7 @@
   "compression":3,
   "compressionQuality":6,
   "conversionMode":0,
-  "duration":173.4375,
+  "duration":137.33333,
   "exportDir":"",
   "name":"mus_battle",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"mus_battle.mp3",
+  "soundFile":"mus_battle.ogg",
   "volume":1.0,
 }

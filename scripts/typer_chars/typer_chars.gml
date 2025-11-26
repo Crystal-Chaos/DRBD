@@ -6,6 +6,7 @@ function typer_chars_init()  {
     new typer_char_ralsei().__initialize()
     new typer_char_ralsei_hat().__initialize()
     new typer_char_noelle().__initialize()
+	new typer_char_sirra().__initialize()
 }
 /// @desc creates a struct with a typer character
 function typer_char() constructor {
@@ -69,4 +70,10 @@ function typer_char_noelle() : typer_char() constructor {
     
     face_sprite = spr_face_noelle
     voice = snd_text_noelle
+}
+function typer_char_sirra() : typer_char() constructor {
+    name = "sirra"
+    
+    face_sprite = spr_face_sirra
+    voice = snd_text_sirra
 }

@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.129478,
+  "duration":0.12947845,
   "exportDir":"",
   "name":"snd_text_susie",
   "parent":{
