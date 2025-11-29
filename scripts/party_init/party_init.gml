@@ -440,9 +440,9 @@ function party_m_felix() : party_m() constructor {
 	s_battle_intro =	1 // 1 for attack, 0 for full intro	
 	
 	battle_sprites = { // [sprite, whether stop at the end (or change to what sprite), (image speed)]
-		act: [spr_bkris_act, true],
-		actready: spr_bkris_actready,
-		actend: [spr_bkris_actend, "idle", 1],
+		act: [spr_bfelix_act, true],
+		actready: spr_bfelix_actready,
+		actend: [spr_bfelix_actend, "idle", 1],
 		attack: [spr_bfelix_attack, true],
 		attackready: spr_bfelix_attackready,
 		defeat: spr_bfelix_defeat,
@@ -454,7 +454,7 @@ function party_m_felix() : party_m() constructor {
 		itemuse: [spr_bkris_item, "idle", 1],
 		itemready: spr_bkris_itemready,
 		victory: [spr_bkris_victory, true],
-		spare: [spr_bkris_act, "idle", 1],
+		spare: [spr_bfelix_act, "idle", 1],
 		attack_eff: spr_bkris_attackeff,
 	}
 		

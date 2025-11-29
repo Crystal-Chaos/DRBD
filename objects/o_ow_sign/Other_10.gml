@@ -1,1 +1,1 @@
-execute_code()
+dialogue_start(text)

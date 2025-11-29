@@ -7,6 +7,7 @@ if !instance_exists(inst) && started {
 		party_setdata(global.party_names[i], "hp", party_getdata(global.party_names[i], "max_hp"))
 	}
 	
+	audio_play(snd_heal)
 	instance_create(o_ui_save)
 }
 
