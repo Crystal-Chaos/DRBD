@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"dodge",
-    "path":"folders/@Engine/objects/misc/ow/dodge.yy",
+    "path":"folders/@Engine/objects/ow/dodge.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"CONTACT",
-    "path":"folders/zzz Examples/Objects/misc/CONTACT.yy",
+    "path":"folders/@DRBD/objects/misc/CONTACT.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -26,7 +26,7 @@
   "origin":7,
   "parent":{
     "name":"battle",
-    "path":"folders/@Engine/sprites/actors/sirra/battle.yy",
+    "path":"folders/@DRBD/sprites/actors/sirra/battle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

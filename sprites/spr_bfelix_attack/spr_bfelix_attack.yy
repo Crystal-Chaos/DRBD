@@ -30,7 +30,7 @@
   "origin":9,
   "parent":{
     "name":"battle",
-    "path":"folders/@Engine/sprites/actors/felix/battle.yy",
+    "path":"folders/@DRBD/sprites/actors/felix/battle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

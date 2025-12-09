@@ -10,7 +10,7 @@
   "compression":3,
   "compressionQuality":6,
   "conversionMode":0,
-  "duration":115.25,
+  "duration":75.42857,
   "exportDir":"",
   "name":"mus_battle",
   "parent":{

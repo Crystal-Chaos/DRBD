@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.04328798,
+  "duration":0.043288,
   "exportDir":"",
   "name":"snd_text_noelle",
   "parent":{

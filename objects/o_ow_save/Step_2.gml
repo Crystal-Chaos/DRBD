@@ -2,12 +2,11 @@ event_inherited()
 
 if !instance_exists(inst) && started {
 	started = false
-	 
+	
 	for (var i = 0; i < array_length(global.party_names); ++i) {
 		party_setdata(global.party_names[i], "hp", party_getdata(global.party_names[i], "max_hp"))
 	}
 	
-	audio_play(snd_heal)
 	instance_create(o_ui_save)
 }
 

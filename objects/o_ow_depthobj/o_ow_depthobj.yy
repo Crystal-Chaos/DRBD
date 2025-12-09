@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"ow",
-    "path":"folders/@Engine/objects/misc/ow.yy",
+    "path":"folders/@Engine/objects/ow.yy",
   },
   "parentObjectId":{
     "name":"o_block",
